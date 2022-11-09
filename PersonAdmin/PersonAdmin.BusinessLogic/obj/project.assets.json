@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PersonAdmin.Dal.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PersonAdmin.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonAdmin.Dal.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonAdmin.Dal.Interface.dll": {}
+        }
+      },
+      "PersonAdmin.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PersonAdmin.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonAdmin.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonAdmin.Dal.Interface/1.0.0": {
+      "type": "project",
+      "path": "../PersonAdmin.Dal.Interface/PersonAdmin.Dal.Interface.csproj",
+      "msbuildProject": "../PersonAdmin.Dal.Interface/PersonAdmin.Dal.Interface.csproj"
+    },
+    "PersonAdmin.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PersonAdmin.Domain/PersonAdmin.Domain.csproj",
+      "msbuildProject": "../PersonAdmin.Domain/PersonAdmin.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PersonAdmin.Dal.Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Flotschi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\PersonAdmin.BusinessLogic.csproj",
+      "projectName": "PersonAdmin.BusinessLogic",
+      "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\PersonAdmin.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\Flotschi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Flotschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/itpro-devops/_packaging/ITPRO/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj": {
+              "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

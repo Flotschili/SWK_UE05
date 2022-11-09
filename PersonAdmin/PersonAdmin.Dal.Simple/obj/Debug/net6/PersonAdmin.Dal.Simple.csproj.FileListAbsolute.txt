@@ -1,0 +1,17 @@
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\bin\Debug\net6\PersonAdmin.Dal.Simple.deps.json
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\bin\Debug\net6\PersonAdmin.Dal.Simple.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\bin\Debug\net6\PersonAdmin.Dal.Simple.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\bin\Debug\net6\PersonAdmin.Dal.Interface.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\bin\Debug\net6\PersonAdmin.Domain.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\bin\Debug\net6\PersonAdmin.Dal.Interface.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\bin\Debug\net6\PersonAdmin.Domain.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\PersonAdmin.Dal.Simple.csproj.AssemblyReference.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\PersonAdmin.Dal.Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\PersonAdmin.Dal.Simple.AssemblyInfoInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\PersonAdmin.Dal.Simple.AssemblyInfo.cs
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\PersonAdmin.Dal.Simple.csproj.CoreCompileInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\PersonAdmin.Dal.Simple.csproj.CopyComplete
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\PersonAdmin.Dal.Simple.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\refint\PersonAdmin.Dal.Simple.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\PersonAdmin.Dal.Simple.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Simple\obj\Debug\net6\ref\PersonAdmin.Dal.Simple.dll

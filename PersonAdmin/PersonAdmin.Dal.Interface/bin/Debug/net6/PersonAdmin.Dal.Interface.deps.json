@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PersonAdmin.Dal.Interface/1.0.0": {
+        "dependencies": {
+          "PersonAdmin.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PersonAdmin.Dal.Interface.dll": {}
+        }
+      },
+      "PersonAdmin.Domain/1.0.0": {
+        "runtime": {
+          "PersonAdmin.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonAdmin.Dal.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonAdmin.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\bin\Debug\net6\PersonAdmin.Domain.deps.json
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\bin\Debug\net6\PersonAdmin.Domain.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\bin\Debug\net6\PersonAdmin.Domain.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\PersonAdmin.Domain.csproj.AssemblyReference.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\PersonAdmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\PersonAdmin.Domain.AssemblyInfoInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\PersonAdmin.Domain.AssemblyInfo.cs
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\PersonAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\PersonAdmin.Domain.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\refint\PersonAdmin.Domain.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\PersonAdmin.Domain.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Domain\obj\Debug\net6\ref\PersonAdmin.Domain.dll

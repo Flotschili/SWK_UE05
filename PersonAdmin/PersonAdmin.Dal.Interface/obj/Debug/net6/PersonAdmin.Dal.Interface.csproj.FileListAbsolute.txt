@@ -1,0 +1,15 @@
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\bin\Debug\net6\PersonAdmin.Dal.Interface.deps.json
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\bin\Debug\net6\PersonAdmin.Dal.Interface.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\bin\Debug\net6\PersonAdmin.Dal.Interface.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\bin\Debug\net6\PersonAdmin.Domain.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\bin\Debug\net6\PersonAdmin.Domain.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\PersonAdmin.Dal.Interface.csproj.AssemblyReference.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\PersonAdmin.Dal.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\PersonAdmin.Dal.Interface.AssemblyInfoInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\PersonAdmin.Dal.Interface.AssemblyInfo.cs
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\PersonAdmin.Dal.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\PersonAdmin.Dal.Interface.csproj.CopyComplete
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\PersonAdmin.Dal.Interface.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\refint\PersonAdmin.Dal.Interface.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\PersonAdmin.Dal.Interface.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.Dal.Interface\obj\Debug\net6\ref\PersonAdmin.Dal.Interface.dll

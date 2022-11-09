@@ -1,0 +1,17 @@
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\bin\Debug\net6.0\PersonAdmin.BusinessLogic.deps.json
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\bin\Debug\net6.0\PersonAdmin.BusinessLogic.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\bin\Debug\net6.0\PersonAdmin.BusinessLogic.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\bin\Debug\net6.0\PersonAdmin.Dal.Interface.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\bin\Debug\net6.0\PersonAdmin.Domain.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\bin\Debug\net6.0\PersonAdmin.Dal.Interface.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\bin\Debug\net6.0\PersonAdmin.Domain.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\PersonAdmin.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\PersonAdmin.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\PersonAdmin.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\PersonAdmin.BusinessLogic.AssemblyInfo.cs
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\PersonAdmin.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\PersonAdmin.BusinessLogic.csproj.CopyComplete
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\PersonAdmin.BusinessLogic.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\refint\PersonAdmin.BusinessLogic.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\PersonAdmin.BusinessLogic.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\PersonAdmin.BusinessLogic\obj\Debug\net6.0\ref\PersonAdmin.BusinessLogic.dll

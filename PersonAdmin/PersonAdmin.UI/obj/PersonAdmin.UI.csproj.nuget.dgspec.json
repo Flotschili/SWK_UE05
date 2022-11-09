@@ -1,0 +1,468 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.UI\\PersonAdmin.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\Dal.Common\\Dal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\Dal.Common\\Dal.Common.csproj",
+        "projectName": "Dal.Common",
+        "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\Dal.Common\\Dal.Common.csproj",
+        "packagesPath": "C:\\Users\\Flotschi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\Dal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flotschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itpro-devops/_packaging/ITPRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\PersonAdmin.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\PersonAdmin.BusinessLogic.csproj",
+        "projectName": "PersonAdmin.BusinessLogic",
+        "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\PersonAdmin.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Flotschi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flotschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itpro-devops/_packaging/ITPRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Ado\\PersonAdmin.Dal.Ado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Ado\\PersonAdmin.Dal.Ado.csproj",
+        "projectName": "PersonAdmin.Dal.Ado",
+        "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Ado\\PersonAdmin.Dal.Ado.csproj",
+        "packagesPath": "C:\\Users\\Flotschi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Ado\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flotschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itpro-devops/_packaging/ITPRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\Dal.Common\\Dal.Common.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\Dal.Common\\Dal.Common.csproj"
+              },
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj"
+              },
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj",
+        "projectName": "PersonAdmin.Dal.Interface",
+        "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj",
+        "packagesPath": "C:\\Users\\Flotschi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flotschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itpro-devops/_packaging/ITPRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Simple\\PersonAdmin.Dal.Simple.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Simple\\PersonAdmin.Dal.Simple.csproj",
+        "projectName": "PersonAdmin.Dal.Simple",
+        "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Simple\\PersonAdmin.Dal.Simple.csproj",
+        "packagesPath": "C:\\Users\\Flotschi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Simple\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flotschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itpro-devops/_packaging/ITPRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj"
+              },
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj",
+        "projectName": "PersonAdmin.Domain",
+        "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj",
+        "packagesPath": "C:\\Users\\Flotschi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flotschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itpro-devops/_packaging/ITPRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.UI\\PersonAdmin.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.UI\\PersonAdmin.UI.csproj",
+        "projectName": "PersonAdmin.UI",
+        "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.UI\\PersonAdmin.UI.csproj",
+        "packagesPath": "C:\\Users\\Flotschi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flotschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/itpro-devops/_packaging/ITPRO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\Dal.Common\\Dal.Common.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\Dal.Common\\Dal.Common.csproj"
+              },
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\PersonAdmin.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.BusinessLogic\\PersonAdmin.BusinessLogic.csproj"
+              },
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Ado\\PersonAdmin.Dal.Ado.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Ado\\PersonAdmin.Dal.Ado.csproj"
+              },
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Interface\\PersonAdmin.Dal.Interface.csproj"
+              },
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Simple\\PersonAdmin.Dal.Simple.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Dal.Simple\\PersonAdmin.Dal.Simple.csproj"
+              },
+              "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj": {
+                "projectPath": "C:\\Users\\Flotschi\\Documents\\FH\\5 Semester\\SWK\\UE05\\PersonAdmin\\PersonAdmin.Domain\\PersonAdmin.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

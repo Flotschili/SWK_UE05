@@ -1,0 +1,12 @@
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\bin\Debug\net6\Dal.Common.deps.json
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\bin\Debug\net6\Dal.Common.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\bin\Debug\net6\Dal.Common.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\Dal.Common.csproj.AssemblyReference.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\Dal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\Dal.Common.AssemblyInfoInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\Dal.Common.AssemblyInfo.cs
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\Dal.Common.csproj.CoreCompileInputs.cache
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\Dal.Common.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\refint\Dal.Common.dll
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\Dal.Common.pdb
+C:\Users\Flotschi\Documents\FH\5 Semester\SWK\UE05\PersonAdmin\Dal.Common\obj\Debug\net6\ref\Dal.Common.dll
